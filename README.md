@@ -1,6 +1,6 @@
 # STM32 Arduino I2C Communication
 
-# This repository contains a demonstration project for bidirectional communication over I2C between an STM32 microcontroller and an Arduino device. The STM32 board receives data from the Arduino via I2C communication, processes it, and demonstrates basic GPIO configuration and error handling functionalities using STM32 HAL libraries.
+This repository contains a demonstration project for bidirectional communication over I2C between an STM32 microcontroller and an Arduino device. The STM32 board receives data from the Arduino via I2C communication, processes it, and demonstrates basic GPIO configuration and error handling functionalities using STM32 HAL libraries.
 
 # Features
 *I2C Communication* : Utilizes the I2C protocol for reliable data exchange between STM32 and Arduino.
