@@ -1,0 +1,11 @@
+../Core/Src/main.c:72:5:main	2
+../Core/Src/main.c:138:6:value_assign	1
+../Core/Src/main.c:161:6:method1	1
+../Core/Src/main.c:174:6:method2	1
+../Core/Src/main.c:188:6:method3	1
+../Core/Src/main.c:202:6:method4	1
+../Core/Src/main.c:216:6:method5	1
+../Core/Src/main.c:227:6:SystemClock_Config	3
+../Core/Src/main.c:269:13:MX_I2C1_Init	2
+../Core/Src/main.c:301:13:MX_GPIO_Init	1
+../Core/Src/main.c:328:6:Error_Handler	1
